@@ -25,3 +25,33 @@ pnpm create next-app --example next-forms next-forms-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+Today were going to be using the following core pieces of tech
+
+Overview
+Next.JS
+Cypress
+Vercel
+GitHub Actions
+For the sake of time, I am going to use a ready to go app provided by Next-JS
+
+Use Next-Forms-App
+Clone it down
+Install Cypress
+Write first test
+Configure Base URL
+Run test locally
+Push this up to the “Main” branch
+Now that we have the app, lets deploy it using Vercel.
+
+Set Up Vercel Integration with Repo
+Deploy the app
+Set up Cypress Dashboard
+Configure app locally
+Set Up GitHub Actions configuration
+Add ENV Vars for Cypress Dashboard
+Add Workflow to project
+Make sure the workflow is using V4 of Cypress actions
+Pull up Cypress Dashboard, Vercel Dashboard and GitHub Actions
+Make PR to Main
+Watch the magic.
